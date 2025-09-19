@@ -1,3 +1,6 @@
 venv/
 __pycache__/
 uploads/
+
+# Ignore sensitive Streamlit secrets
+.streamlit/secrets.toml
